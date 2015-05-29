@@ -2,9 +2,9 @@
     "name": "User/htdocs",
     "authors": [
         {
-            "name": "Dyadyushka Maxim",
-            "email": "donchik125@gmail.com"
+            "name": "Zbroina",
+            "email": "zoya.zbroynaya@mail.ru"
         }
     ],
-    "require": {"php":">=5.3.0"}
+"autoload":{"classmap":["task4.3.php"]
 }
